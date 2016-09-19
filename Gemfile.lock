@@ -56,7 +56,7 @@ GIT
       thor (>= 0.18.1, < 2.0)
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     arel (6.0.3)
     binding_of_caller (0.7.2)
@@ -171,4 +171,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.11.2
+   1.12.5
